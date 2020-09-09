@@ -1,5 +1,6 @@
 body {
-	background-color: #C3CBE8;
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
 }
 
 .no-display {
